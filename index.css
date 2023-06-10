@@ -149,6 +149,9 @@ header a {
 /* ----- Feature ----- */
 
 .feature-container {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   column-gap: 3em;
