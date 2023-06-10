@@ -154,7 +154,7 @@ header a {
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  column-gap: 3em;
+  column-gap: 2.5em;
   flex-direction: column;
   margin-bottom: 2em;
   text-align: center;
